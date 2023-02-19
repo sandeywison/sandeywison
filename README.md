@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeywison
 - 👀 I’m interested in aviation, video games, skateboard, learning human and computer languages 
-- 🌱 I’m currently learning CSS, HTML, JavaScript(Angula, React), Python, SQL, PHP, 
+- 🌱 I’m currently learning CSS, HTML, JavaScript, Angular, c#, aspnet core, .net
 - 💞️ I’m looking to collaborate on whatever project that would bring me friends and new knowledge.
 - 📫 How to reach me sandeywison@gmail.com
 
